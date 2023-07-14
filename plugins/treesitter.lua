@@ -1,7 +1,7 @@
 return {
   "nvim-treesitter/nvim-treesitter",
   opts = {
-    ensure_installed={"html","css","bash","json","lua"," markdown_inline",
-  "scss","tsx","typescript"}
+    ensure_installed = { "lua", "markdown", "typescript", "tsx", "javascript", "yaml", "dockerfile", "bash", "html",
+      "css", "scss", "json" }
   },
 }
