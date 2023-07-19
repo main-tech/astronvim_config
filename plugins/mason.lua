@@ -7,7 +7,7 @@ return {
 
     opts = {
       ensure_installed = {
-        "lua_ls", "tsserver", "yamlls", "terraformls"
+        "lua_ls", "tsserver", "yamlls", "terraformls", "bashls"
       }
     },
   },
