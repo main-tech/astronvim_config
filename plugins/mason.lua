@@ -8,7 +8,7 @@ return {
     opts = {
       ensure_installed = {
         "lua_ls", "tsserver", "yamlls", "terraformls", "bashls",
-        "dockerls", "docker_compose_language_service"
+        "dockerls"
       }
     },
   },
