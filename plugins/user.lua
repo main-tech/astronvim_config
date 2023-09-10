@@ -9,4 +9,13 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+    {
+    "elkowar/yuck.vim",
+    event={"BufEnter *.yuck"}
+},
+{"gpanders/nvim-parinfer",
+     event={"BufEnter *.yuck"}
+  }
+
+
 }
