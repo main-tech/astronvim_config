@@ -15,7 +15,8 @@ return {
 },
 {"gpanders/nvim-parinfer",
      event={"BufEnter *.yuck"}
+  },
+{"xiyaowong/transparent.nvim",
+     event={"VeryLazy"}
   }
-
-
 }
