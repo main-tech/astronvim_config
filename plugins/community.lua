@@ -6,6 +6,8 @@ return {
 
     { import = "astrocommunity.colorscheme.tokyonight-nvim" },
     { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+    { import = "astrocommunity.colorscheme.github-nvim-theme" },
+
 
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
