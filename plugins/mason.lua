@@ -8,7 +8,7 @@ return {
     opts = {
       ensure_installed = {
         "lua_ls", "tsserver", "yamlls", "terraformls", "bashls",
-  "dockerls","jedi_language_server"
+  "dockerls","jedi_language_server","jdtls"
       }
     },
   },
