@@ -13,6 +13,12 @@ return {
     "elkowar/yuck.vim",
     event={"BufEnter *.yuck"}
 },
+
+{
+    "mlaursen/vim-react-snippets",
+    event={"BufEnter *.tsx,*.jsx"}
+},
+
 {"gpanders/nvim-parinfer",
      event={"BufEnter *.yuck"}
   },
